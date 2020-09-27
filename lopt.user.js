@@ -6,6 +6,7 @@
 // @author      UNIDY2002
 // @version     1.0.0
 // @match       *://166.111.214.78/Select_Select.php?weekselect=*
+// @match       *://166.111.214.78/StuWelcome.php
 // @require     https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js
 // ==/UserScript==
 
@@ -15,4 +16,7 @@ $(document).ready(function () {
             location.reload();
         });
     });
+    if (location.href.indexOf("StuWelcome") !== -1) {
+        location.href = "http://166.111.214.78/Select_Select.php?weekselect=2";
+    }
 });
