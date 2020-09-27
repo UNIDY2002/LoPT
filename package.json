@@ -1,0 +1,16 @@
+{
+  "name": "lopt",
+  "version": "1.0.0",
+  "description": "Lab. of Physics Tool",
+  "author": "UNIDY2002",
+  "repository": "https://github.com/UNIDY2002/LoPT",
+  "scripts": {
+    "lint": "eslint *.js"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "7.10.0",
+    "jquery": "3.5.1"
+  }
+}
