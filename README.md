@@ -35,5 +35,6 @@ This script has never been in use! (In fact, I myself have never ever been able 
   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
   - [Violentmonkey for Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 - Then, go to [GreasyFork](https://greasyfork.org/zh-CN/scripts/412112-lopt) for installation.
+- If installation from GreasyFork doesn't work, try [download](https://github.com/UNIDY2002/LoPT/releases/latest/download/lopt.user.js) and install the script manually.
 
 **Issues and pull requests are definitely welcome!**
