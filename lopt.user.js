@@ -10,7 +10,9 @@
 // ==/UserScript==
 
 $(document).ready(function () {
-    $("input[type=RADIO]").click(function () {
-        alert("Clicked!");
+    $("input[type=radio]").click(function () {
+        $.post("Select_Select.php", $("form").serialize(), function () {
+            location.reload();
+        });
     });
 });
