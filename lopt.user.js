@@ -3,7 +3,8 @@
 // @name        LoPT
 // @namespace   https://github.com/UNIDY2002/LoPT
 // @description Lab. of Physics Tool
-// @author      UNIDY2002
+// @author      UNIDY
+// @license     MIT
 // @version     1.0.0
 // @match       *://166.111.214.78/Select_Select.php?weekselect=*
 // @match       *://166.111.214.78/StuWelcome.php
