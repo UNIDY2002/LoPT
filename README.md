@@ -25,7 +25,7 @@ Users no longer have to press enter or push button to confirm a registration - a
 
 ## Warning
 
-This script has never been in use! (In fact, I myself have never ever been able to reserve a single session!) 
+This script has never been in use! (In fact, I myself have never ever been able to reserve a single session! Under extreme anger, I decided to write and share this script.) 
 
 ## Usage
 
@@ -34,7 +34,6 @@ This script has never been in use! (In fact, I myself have never ever been able 
   - [Violentmonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
   - [Violentmonkey for Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
-- Then, go to [GreasyFork](https://greasyfork.org/zh-CN/scripts/412112-lopt) for installation.
-- If installation from GreasyFork doesn't work, try [download](https://github.com/UNIDY2002/LoPT/releases/latest/download/lopt.user.js) and install the script manually.
+- Then, go to [OpenUserJS](https://openuserjs.org/scripts/UNIDY/LoPT) for installation.
 
 **Issues and pull requests are definitely welcome!**
