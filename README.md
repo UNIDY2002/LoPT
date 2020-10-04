@@ -23,10 +23,6 @@ Upon logged in, the user will be automatically redirected to the latest course s
 
 Users no longer have to press enter or push button to confirm a registration - a registration request will be automatically sent to server as soon as the user clicks a radio button.
 
-## Warning
-
-This script has never been in use! (In fact, I myself have never ever been able to reserve a single session! Under extreme anger, I decided to write and share this script.) 
-
 ## Usage
 
 - First, install an userscript manager for your browser. Recommended are:
